@@ -1,0 +1,33 @@
+#droppay-container {
+    display: block;
+    background-color: #fafafa;
+    padding: 1.41575em;
+    margin-top: 2.617924em;
+    float: none;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+#droppay-container .btn-dp.btn-half-graylight{
+    display: block;
+    margin: 0 auto;
+}
+
+#droppay-container p {
+    font-size: 15px;
+    text-align: center;
+}
+
+#droppay-container p#note-droppay {
+    margin: 1.41575em 0 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+#droppay-container p .orange {
+    color: #ef7019;
+}
+
+#droppay-container p .gray {
+    color: #333333;
+}
